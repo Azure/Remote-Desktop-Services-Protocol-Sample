@@ -1,0 +1,16 @@
+HKCR
+{
+	NoRemove CLSID
+	{
+		ForceRemove {549085ba-495f-4b6f-b4a2-f0886ff5e29e} = s 'WRdsProtocolConnection class'
+		{
+			ForceRemove Programmable
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			TypeLib = s '{f1d4c579-c0e3-4e35-a55a-cf6a4979310d}'
+			Version = s '1.0'
+		}
+	}
+}
