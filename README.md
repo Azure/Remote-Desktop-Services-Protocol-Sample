@@ -27,7 +27,9 @@ Remote Desktop Protocol Provider API:
 
 ## Credit
 
-Huge Credit to Kavya Lakhminarayanan (https://github.com/kavyaln2k) who wrote most (if not all) of this implementation.
+Huge Credit to Kavya Lakhminarayanan who wrote most (if not all) of this implementation.
+GitHub: https://github.com/kavyaln2k
+Linkedin: https://www.linkedin.com/in/kavyalakshminarayanan/
 
 ## Contributing
 
