@@ -13,7 +13,7 @@ One key note is that these samples will **not** be covering how to license windo
 
 //TODO: Add link to tutorial.md
 
-##Relevant MSDN documentation
+## Relevant MSDN documentation
 Indirect Display Driver:
 - [Overview](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/indirect-display-driver-model-overview)
 - [Sample](https://docs.microsoft.com/en-us/samples/microsoft/windows-driver-samples/indirect-display-driver-sample/)
@@ -25,7 +25,9 @@ Remote Desktop Protocol Provider API:
 - [Registering the provider](https://docs.microsoft.com/en-us/windows/win32/termserv/registering-the-custom-protocol)
 - [COM Interfaces](https://docs.microsoft.com/en-us/windows/win32/termserv/custom-remote-protocol-interfaces)
 
+## Credit
 
+Huge Credit to Kavya Lakhminarayanan (https://github.com/kavyaln2k) who wrote most (if not all) of this implementation.
 
 ## Contributing
 
@@ -35,6 +37,7 @@ When you submit a pull request, a CLA bot will automatically determine whether y
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
 
 ## Trademarks
 
